@@ -1,6 +1,6 @@
 module github.com/enchichen1107/NTHU-DS-Golang-Lab
 
-go 1.22.1
+go 1.23
 
 require (
 	github.com/onsi/ginkgo v1.16.5
